@@ -2,3 +2,4 @@ tiny-llama/
 __pycache__/
 *.pyc
 .DS_Store
+*.gguf
